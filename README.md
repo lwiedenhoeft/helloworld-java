@@ -1,5 +1,5 @@
 # helloworld-java
-Very simple hello world python Flask application.
+Very simple hello world java application with spring-boot.
 
 ## What you'll need
 - JDK 1.7 or later
