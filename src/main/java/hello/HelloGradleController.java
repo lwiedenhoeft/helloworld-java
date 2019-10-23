@@ -8,7 +8,7 @@ public class HelloGradleController {
 
     @GetMapping
     public String helloGradle() {
-        return "Hello world! I am a Java application and was built with Gradle. ";
+        return "Hello world! I am a Java application and was built with Gradle.";
     }
 
 }

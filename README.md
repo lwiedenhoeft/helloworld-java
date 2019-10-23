@@ -11,7 +11,6 @@ Very simple hello world java application with spring-boot.
 - Gradle
 
 ## Run
-`./gradlew bootJar`
-`./gradlew bootRun`
-
-
+`gradle test`
+`gradle build`
+`gradle bootRun`

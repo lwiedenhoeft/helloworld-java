@@ -24,7 +24,7 @@ public class AppTest {
     public void helloGradle() throws Exception {
         mvc.perform(get("/"))
             .andExpect(status().isOk())
-            .andExpect(content().string("Hello Gradle!"));
+            .andExpect(content().string("Hello world! I am a Java application and was built with Gradle."));
     }
 
 }
