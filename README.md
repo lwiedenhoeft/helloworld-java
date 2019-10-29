@@ -12,5 +12,7 @@ Very simple hello world java application with spring-boot.
 
 ## Run
 `gradle test`
+
 `gradle build`
+
 `gradle bootRun`
